@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I am Hamza<br>- 👨‍💻 Currently working with MERN Stack tech for web development<br>- 🎇 Learning: AWS & DevOps<br>- 🎨 Hobbies: Travelling<br><br><br>
+Hey, I am Hamza<br>- 👨‍💻 Currently working as DevOps engineer and  Full Stack  Developer<br>- 🎇 Learning: Cloud Engineering ,DevOps<br>- 🎨 Hobbies: Travelling<br><br><br>
 
 
 ## 🌐 Socials:
